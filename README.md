@@ -15,16 +15,12 @@ I work with electronic circuits, embedded hardware, microcontrollers, and embedd
 ![OrCAD](https://img.shields.io/badge/OrCAD-Capture%20CIS-red)
 ![Cadence](https://img.shields.io/badge/Cadence-Allegro-blue)
 ![PCB Design](https://img.shields.io/badge/PCB-Design-green)
-![PCB Layout](https://img.shields.io/badge/PCB-Layout-orange)
-![PCB Routing](https://img.shields.io/badge/PCB-Routing-purple)
 ![Footprints](https://img.shields.io/badge/PCB-Footprints-yellow)
 
 ### Embedded Hardware & Software
 
 ![Embedded C](https://img.shields.io/badge/Embedded-C-blue)
 ![C](https://img.shields.io/badge/C-Programming-blue)
-![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue)
-![Arduino](https://img.shields.io/badge/Arduino-Embedded-00979D)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-green)
 ![Hardware Software](https://img.shields.io/badge/Hardware--Software-Integration-orange)
 
