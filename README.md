@@ -2,9 +2,16 @@
 
 ### Hardware Design Engineer | Embedded Sysytem
 
-I'm a Hardware Design Engineer with hands-on experience in PCB schematic design, PCB layout, hardware development, embedded software, debugging, testing, and validation.
+I'm a Hardware Design Engineer with 1+ years of hands-on experience in PCB schematic design, PCB layout, hardware development, embedded software, debugging, testing, and validation.
 
-I work with electronic circuits, embedded hardware, microcontrollers, and embedded software, with a focus on developing reliable and production-ready hardware and software solutions.
+## 🚀 About Me
+
+- 💻 Hardware Design Engineer focused on PCB and embedded systems
+- Embedded hardware and software development
+- 🔧 Experienced in PCB schematic, layout, routing, and hardware development
+- 🧑‍💻 Interested in Embedded C, and STM32 microcontroller-based systems
+- 🔬 Hands-on experience with hardware testing, debugging, and validation
+- 📡 Working with RF amplifier boards and electronic test equipment
 
 ---
 
@@ -39,24 +46,6 @@ I work with electronic circuits, embedded hardware, microcontrollers, and embedd
 ![Hardware Validation](https://img.shields.io/badge/Hardware-Validation-green)
 ![RF Testing](https://img.shields.io/badge/RF-Testing-purple)
 ![Prototyping](https://img.shields.io/badge/Electronic-Prototyping-orange)
-
----
-
-## 💼 Experience
-
-### Associate Engineer – Hardware Design & Development
-
-**Rangsons Aerospace Pvt. Ltd., Bengaluru**
-
-**July 2026 – Present**
-
-- PCB schematic design using OrCAD Capture CIS
-- PCB layout and routing using Cadence Allegro
-- Component footprint and library development
-- Hardware bring-up and PCB debugging
-- Hardware testing and validation
-- RF amplifier board testing
-- Embedded hardware and software development
 
 ---
 
